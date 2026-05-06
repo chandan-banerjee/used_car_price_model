@@ -36,8 +36,8 @@
 
 # **Phase Evaluation**
 
-    ***1. Mocked up data from the original dataset that was given to me for analysis
+    1. Mocked up data from the original dataset that was given to me for analysis
     2. Used 3 cars data as to mimic a scenario where model never had seen the data before
-    3. Used 3 models to predic prices and found polynoial feature selection using Lasso is predicting better. Details are in EVALUATION section of the notebook***
+    3. Used 3 models to predic prices and found polynoial feature selection using Lasso is predicting better. Details are in EVALUATION section of the notebook
 
 
