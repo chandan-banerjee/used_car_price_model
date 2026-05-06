@@ -1,0 +1,15 @@
+id,region,price,year,manufacturer,model,condition,cylinders,fuel,odometer,title_status,transmission,VIN,drive,size,type,paint_color,state
+7314732134,flagstaff / sedona,27990,2012,toyota,tacoma double cab pickup,good,6 cylinders,gas,67245,clean,other,5TFLU4EN4CX030112,4wd,,pickup,silver,az
+7314732111,flagstaff / sedona,35990,2019,toyota,4runner sr5 sport utility,good,6 cylinders,gas,49441,clean,other,JTEBU5JR4K5619614,4wd,,other,red,az
+7314732055,flagstaff / sedona,31990,2014,gmc,yukon xl 1500 denali sport,good,,other,57899,clean,other,1GKS2MEFXER152687,,,SUV,black,az
+7314732039,flagstaff / sedona,29990,2019,chevrolet,camaro lt coupe 2d,good,6 cylinders,gas,6727,clean,other,1G1FA1RS3K0128309,rwd,,coupe,red,az
+7314732030,flagstaff / sedona,27990,2018,acura,rdx technology pkg sport,good,6 cylinders,gas,30791,clean,other,5J8TB4H53JL021103,,,other,,az
+7314732031,flagstaff / sedona,30990,2019,mazda,mx-5 miata grand touring,good,,gas,4936,clean,other,JM1NDAD70K0306349,rwd,,other,black,az
+7314732006,flagstaff / sedona,38590,2011,chevrolet,corvette grand sport,good,8 cylinders,gas,30237,clean,other,1G1YR3DW3B5102190,rwd,,other,red,az
+7316343444,auburn,27990,2012,gmc,sierra 2500 hd extended cab,good,8 cylinders,gas,68696,clean,other,1GT220CG8CZ231238,4wd,,pickup,black,al
+7316304717,auburn,34590,2016,chevrolet,silverado 1500 double,good,6 cylinders,gas,29499,clean,other,1GCVKREH6GZ228691,4wd,,pickup,silver,al
+7316285779,auburn,35000,2019,toyota,tacoma,excellent,6 cylinders,gas,43000,clean,automatic,,4wd,,truck,grey,al
+7316257769,auburn,29990,2016,chevrolet,colorado extended cab,good,6 cylinders,gas,17302,clean,other,1GCHTCE37G1186784,4wd,,pickup,red,al
+7316133914,auburn,38590,2011,chevrolet,corvette grand sport,good,8 cylinders,gas,30237,clean,other,1G1YR3DW3B5102190,rwd,,other,red,al
+7316130053,auburn,4500,1992,jeep,cherokee,excellent,6 cylinders,gas,192000,clean,automatic,,4wd,,,,al
+

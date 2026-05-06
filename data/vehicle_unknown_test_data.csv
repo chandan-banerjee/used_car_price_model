@@ -1,0 +1,4 @@
+id,region,price,year,manufacturer,model,condition,cylinders,fuel,odometer,title_status,transmission,VIN,drive,size,type,paint_color,state
+7314732134,flagstaff / sedona,27990,2020,toyota,tacoma double cab pickup,bad,6 cylinders,hybrid,5000,clean,other,5TFLU4EN4CX030112,4wd,,pickup,silver,az
+7314732111,flagstaff / sedona,35990,2019,toyota,4runner sr5 sport utility,good,6 cylinders,gas,100223,clean,other,JTEBU5JR4K5619614,4wd,,other,red,az
+7314732055,flagstaff / sedona,31990,2000,gmc,yukon xl 1500 denali sport,bad,,other,200899,clean,other,1GKS2MEFXER152687,,,SUV,black,az
