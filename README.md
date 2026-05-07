@@ -1,6 +1,10 @@
 # Requirement : Identify the key features that affects used car price. Develop a model to predict used car price using the key features. 
 #               This will help the car dealer stress on these features that will  effectively meet customers' decision to chose an used car.
 
+# ***GIT HUB REPO link***
+
+
+
 # **Key observations/ Summary**
 
 # **Phase EDA (Exploratory Data Analysis) & Feature Engg:**
@@ -39,5 +43,11 @@
     1. Mocked up data from the original dataset that was given to me for analysis
     2. Used 3 cars data as to mimic a scenario where model never had seen the data before
     3. Used 3 models to predic prices and found polynoial feature selection using Lasso is predicting better. Details are in EVALUATION section of the notebook
+
+# **Conclusion/NxtStep/Recommendation**
+
+    1.  These are NOT the best models. I would say its average. The current state is much better than what I started with. The R^2 score has imporved a lot from negative to greter than ZERO.
+    2. Further scope will be do more feature engineering as dataset has lot of data variation
+    3. For now checked with few hyperparameter. There is scope to tune parameters for better performance , regularization and improved scores
 
 
