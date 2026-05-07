@@ -3,6 +3,8 @@
 
 # ***GIT HUB REPO link***
 
+Please use the following link to access my repository
+https://github.com/chandan-banerjee/used_car_price_model/tree/main
 
 
 # **Key observations/ Summary**
